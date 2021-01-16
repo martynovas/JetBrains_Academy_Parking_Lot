@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    data class Client(val name: String, val age: Int, val balance: Int)
+
+    fun main(args: Array<String>) {
+        //implement your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8534
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8534">JetBrains
+    Academy</a></html>
+  time: Fri, 15 Jan 2021 17:40:23 UTC
+record: -1

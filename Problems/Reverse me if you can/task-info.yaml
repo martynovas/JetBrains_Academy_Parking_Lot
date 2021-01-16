@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun reverse(input: Int?): Int {
+        return 0
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9698
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9698">JetBrains
+    Academy</a></html>
+  time: Thu, 14 Jan 2021 11:21:09 UTC
+record: -1
